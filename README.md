@@ -1,6 +1,6 @@
-# React + Tailwind = Spotify Clone
+# React - PGVSIDDU = Spotify Clone
 
-React + Tailwind serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
+React + PGVSIDDU serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
 
 1. bölümde öğrenecekleriniz
     - React ve tailwind kurulumu
